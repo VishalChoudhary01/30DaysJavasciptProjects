@@ -19,7 +19,7 @@ body {
   transition: filter 0.8s ease;
 }
 .container > img:hover {
-  filter: drop-shadow(3px 2px 4px rgb(4, 196, 26));
+  filter: drop-shadow(3px 2px 8px rgb(4, 196, 26));
 }
 .frame {
   overflow: hidden;

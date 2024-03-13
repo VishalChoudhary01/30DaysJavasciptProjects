@@ -21,7 +21,6 @@ signInBtn.addEventListener("click", () => {
 
 signUpBtn.addEventListener("click", () => {
   nameField.style.maxHeight = "60px";
-
   signUpBtn.classList.remove("disable");
   signInBtn.classList.add("disable");
   underline.style.transform = "translateX(0)";
